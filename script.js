@@ -58,7 +58,7 @@ document.addEventListener('DOMContentLoaded', () => {
       environment: 'Rich forest, rare species and razor-edge ridges, including the famous Tinagong Dagat lake area.',
       tip: 'This is one of the toughest climbs in the country. Only go with experienced guides.' },
 
-    // ---------- VISAYAS ----------
+  
     { id: 'kapayas', short: 'Mt. Kapayas', name: 'Mount Kapayas', region: 'Visayas', province: 'Cebu',
       location: 'Catmon, Cebu, Visayas', elevation: 783, difficulty: 'Moderate', time: '4–6 hours round trip',
       image: 'images/mt-kapayas',
